@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedrober31
 - 👀 I’m interested in learning new codes and sharing my programming experiences
-- 🌱 I’m currently learning C# and .net
+- 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
